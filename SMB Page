@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SMB Lab</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+
+<h1>SMB Lab Testing</h1>
+
+<h2>Overview</h2>
+<p>SMB (Server Message Block) is used for file sharing in Windows networks.</p>
+
+<h2>Ports</h2>
+<ul>
+    <li>445 (SMB)</li>
+    <li>139 (NetBIOS)</li>
+</ul>
+
+<h2>Tools Used</h2>
+<ul>
+    <li>nmap</li>
+    <li>smbclient</li>
+    <li>enum4linux</li>
+</ul>
+
+<h2>Lab Activities</h2>
+<ol>
+    <li>Scan SMB service</li>
+    <li>Enumerate shares</li>
+    <li>Check permissions</li>
+</ol>
+
+<h2>Findings</h2>
+<p>Add your lab results here.</p>
+
+</body>
+</html>
